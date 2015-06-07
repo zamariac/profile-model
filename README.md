@@ -40,7 +40,7 @@ After completing this assignment, you be able to effectively use
 
 
 ## Normal Mode
-Fork and then clone this repository. Modify the HTML and JavaScript to implement the following behavior:
+Fork and then clone this repository. Modify the HTML and JavaScript inside of the dist directory to implement the following behavior:
 
 1. When a user clicks on the "Home" link in the navbar they should be taken to the home page (the one with lorem ipsum).
 
